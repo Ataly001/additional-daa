@@ -15,7 +15,7 @@ The average complexity of insertion, searching, and deletion is O(log n).
 
 It happens when the tree has a good shape.
 
-![BST complexity and results](screenshots/comparisons bst.png)
+![BST complexity and results](screenshots/comparisons-bst.png)
 
 The worst-case complexity is O(n) when the tree becomes similar to a linked.
 
@@ -36,7 +36,7 @@ This is called a collision.
 And if table is full on 75 percent it increase its size and move elements to larger array,
 it's called resize method.
 
-![BST complexity and results](screenshots/comparisons hash.png)
+![BST complexity and results](screenshots/comparisons-hash.png)
 
 The average complexity of insertion, searching, and deletion is O(1). 
 The worst-case complexity is O(n) when many values are stored in the same bucket.
